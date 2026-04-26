@@ -1,0 +1,19 @@
+body {
+ background-image: url(background.png);
+	background-size: cover;
+	background-attachment:fixed ;
+} 
+.Navname {
+	animation: bounceInLeft;
+	animation-duration: 1s;
+}
+.Photo1 {
+	width: 80px;
+    padding: 5%;
+
+}
+
+.Welcome2 {
+	background: rgba(0%, 0%, 0%, .7);
+	border-radius: 10px;
+}
